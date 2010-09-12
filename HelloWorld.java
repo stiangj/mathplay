@@ -9,3 +9,4 @@ public static void main (String[] args) {
               System.out.println("Idiot nr"+(i+1) +" er: "+idioter[i]+"");
 	}
 }
+}
